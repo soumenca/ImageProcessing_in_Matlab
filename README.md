@@ -11,3 +11,9 @@
 5.Write a program to transform a greyscale image to frequency domain by Fourier transform. Apply any three low-pass filters on it and transform back each of the results to spatial domain and display the result images.
 
 6.Write a program to transform a greyscale image to frequency domain by Fourier transform. Apply any three high-pass filters on it and transform back each of the results to spatial domain and display the result images.
+
+7.Take an RGB color image and obtain the histograms of the image separately in Hue, Saturation and Intensity channels.
+
+8.Take a grayscale image and map the image by applying run-length encoding technique to reduce the spatial redundancy. Then apply modified Huffman coding technique (column-wise) to compress the image. Apply reverse procedure to get back the image and display the difference image.
+
+9.Take a grayscale image and apply Haar transform. For ease in computation resize the input image by downsampling.
